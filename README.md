@@ -33,16 +33,18 @@ Essayez "Text to speech Converter" : https://100sue.github.io/text-to-speech/
 </p>
 
 <br>
-
 <br>
 <br>
+<br>
 
-
+<p align="center">
+<img src= "https://github.com/100sue/bubble-game/assets/90606431/97c01f78-8028-4b00-a632-530b6c987504" width="669" height="418"/>
+</p>
 
 <h1 align="center">Web Developer - Full Stack</h1>
 
 <p style="margin: 15px;" align="center">
-     <h3 align="center">Hi, I'm web developer and I make some application, and some others stuff in developement.</h3>
+     <h3 align="center">Hi, I'm web developer and I make some application, <br> and some others stuff in developement.</h3>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -60,6 +62,9 @@ Essayez "Text to speech Converter" : https://100sue.github.io/text-to-speech/
 </p>  
 <br>
 <br>
+<p align="center">
+<img src= "https://github.com/100sue/bubble-game/assets/90606431/7f2b4980-ba84-4225-a25a-b5302f0ffc88"/>
+</p>
 
 
 
